@@ -1,0 +1,12 @@
+{
+    "name": "io7-3device-thermostat",
+    "description": "Themostat with 3 devices of valve, thermometer, and the rotary controller",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
